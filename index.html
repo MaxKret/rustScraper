@@ -1,131 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>DataTables HTML example</title>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
 
-    <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.2.2/datatables.min.css" rel="stylesheet">
+<head>
+	<title>DataTables HTML example</title>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width" />
 
-    <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.2.2/datatables.min.js"></script>
+	<link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.2.2/datatables.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="styles.css" />
-    <script src="script.js"></script>
-  </head>
-  <body>
-    <div id="app">
-      <h1>DataTables HTML example</h1>
-      <p>
-        This example shows DataTables loaded via <code>script</code>
-        tags and Ajax loading object based data.
-      </p>
+	<script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.2.2/datatables.min.js"></script>
 
-      <table id="myTable" class="display">
-        <thead>
-          <tr>
-            <th>Item</th>
-			<th>Category</th>
-			<th>Scrap</th>
-			<th>High Quality Metal</th>
-			<th>Tech Trash</th>
-			<th>Rifle Body</th>
-			<th>SMG Body</th>
-			<th>Semi Automatic Body</th>
-			<th>Gears</th>
-			<th>Metal Spring</th>
-			<th>Sheet Metal</th>
-			<th>Metal Pipe</th>
-			<th>Road Signs</th>
-			<th>Metal Blade</th>
-			<th>Empty Propane Tank</th>
-			<th>Metal Fragments</th>
-			<th>Gun Powder</th>
-			<th>Sulfur</th>
-			<th>Explosives</th>
-			<th>Tarp</th>
-			<th>Wood</th>
-			<th>Cloth</th>
-			<th>Sewing Kit</th>
-			<th>Targeting Computer</th>
-			<th>CCTV Camera</th>
-			<th>Rope</th>
-			<th>Low Grade Fuel</th>
-			<th>Bone Fragments</th>
-			<th>Leather</th>
-			<th>Pumpkin</th>
-			<th>Crude Oil</th>
-			<th>Stones</th>
-			<th>RF Broadcaster</th>
-			<th>RF Receiver</th>
-			<th>Wolf Skull</th>
-			<th>Glue</th>
-			<th>Charcoal</th>
-			<th>Raw Human Meat</th>
-			<th>Animal Fat</th>
-			<th>Burst Module</th>
-			<th>Wooden Ladder</th>
-			<th>Medical Syringe</th>
-			<th>Beancan Grenade</th>
-			<th>Small Stash</th>
-			<th>Human Skull</th>
-			<th>Wooden Spear</th>
-			<th>Electric Fuse</th>
-			<th>Empty Tuna Can</th>
-          </tr>
-        </thead>
-        <tfoot>
-          <tr>
-            <th>Item</th>
-			<th>Category</th>
-			<th>Scrap</th>
-			<th>High Quality Metal</th>
-			<th>Tech Trash</th>
-			<th>Rifle Body</th>
-			<th>SMG Body</th>
-			<th>Semi Automatic Body</th>
-			<th>Gears</th>
-			<th>Metal Spring</th>
-			<th>Sheet Metal</th>
-			<th>Metal Pipe</th>
-			<th>Road Signs</th>
-			<th>Metal Blade</th>
-			<th>Empty Propane Tank</th>
-			<th>Metal Fragments</th>
-			<th>Gun Powder</th>
-			<th>Sulfur</th>
-			<th>Explosives</th>
-			<th>Tarp</th>
-			<th>Wood</th>
-			<th>Cloth</th>
-			<th>Sewing Kit</th>
-			<th>Targeting Computer</th>
-			<th>CCTV Camera</th>
-			<th>Rope</th>
-			<th>Low Grade Fuel</th>
-			<th>Bone Fragments</th>
-			<th>Leather</th>
-			<th>Pumpkin</th>
-			<th>Crude Oil</th>
-			<th>Stones</th>
-			<th>RF Broadcaster</th>
-			<th>RF Receiver</th>
-			<th>Wolf Skull</th>
-			<th>Glue</th>
-			<th>Charcoal</th>
-			<th>Raw Human Meat</th>
-			<th>Animal Fat</th>
-			<th>Burst Module</th>
-			<th>Wooden Ladder</th>
-			<th>Medical Syringe</th>
-			<th>Beancan Grenade</th>
-			<th>Small Stash</th>
-			<th>Human Skull</th>
-			<th>Wooden Spear</th>
-			<th>Electric Fuse</th>
-			<th>Empty Tuna Can</th>
-          </tr>
-        </tfoot>
-      </table>
-    </div>
-  </body>
+	<link rel="stylesheet" href="styles.css" />
+	<script src="script.js"></script>
+</head>
+
+<body>
+	<div id="app">
+		<h1>DataTables HTML example</h1>
+		<p>
+			This example shows DataTables loaded via <code>script</code>
+			tags and Ajax loading object based data.
+		</p>
+
+		<table id="myTable" class="display">
+			<thead>
+				<tr>
+					<th>Item</th>
+					<th>Category</th>
+					<th>Scrap</th>
+					<th>High Quality Metal</th>
+					<th>Tech Trash</th>
+					<th>Rifle Body</th>
+					<th>SMG Body</th>
+					<th>Semi Automatic Body</th>
+					<th>Gears</th>
+					<th>Metal Spring</th>
+					<th>Sheet Metal</th>
+					<th>Metal Pipe</th>
+					<th>Road Signs</th>
+					<th>Metal Blade</th>
+					<th>Empty Propane Tank</th>
+					<th>Metal Fragments</th>
+					<th>Gun Powder</th>
+					<th>Sulfur</th>
+					<th>Explosives</th>
+					<th>Tarp</th>
+					<th>Wood</th>
+					<th>Cloth</th>
+					<th>Sewing Kit</th>
+					<th>Targeting Computer</th>
+					<th>CCTV Camera</th>
+					<th>Rope</th>
+					<th>Low Grade Fuel</th>
+					<th>Bone Fragments</th>
+					<th>Leather</th>
+					<th>Pumpkin</th>
+					<th>Crude Oil</th>
+					<th>Stones</th>
+					<th>RF Broadcaster</th>
+					<th>RF Receiver</th>
+					<th>Wolf Skull</th>
+					<th>Glue</th>
+					<th>Charcoal</th>
+					<th>Raw Human Meat</th>
+					<th>Animal Fat</th>
+					<th>Burst Module</th>
+					<th>Wooden Ladder</th>
+					<th>Medical Syringe</th>
+					<th>Beancan Grenade</th>
+					<th>Small Stash</th>
+					<th>Human Skull</th>
+					<th>Wooden Spear</th>
+					<th>Electric Fuse</th>
+					<th>Empty Tuna Can</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr>
+					<th>Item</th>
+					<th>Category</th>
+					<th>Scrap</th>
+					<th>High Quality Metal</th>
+					<th>Tech Trash</th>
+					<th>Rifle Body</th>
+					<th>SMG Body</th>
+					<th>Semi Automatic Body</th>
+					<th>Gears</th>
+					<th>Metal Spring</th>
+					<th>Sheet Metal</th>
+					<th>Metal Pipe</th>
+					<th>Road Signs</th>
+					<th>Metal Blade</th>
+					<th>Empty Propane Tank</th>
+					<th>Metal Fragments</th>
+					<th>Gun Powder</th>
+					<th>Sulfur</th>
+					<th>Explosives</th>
+					<th>Tarp</th>
+					<th>Wood</th>
+					<th>Cloth</th>
+					<th>Sewing Kit</th>
+					<th>Targeting Computer</th>
+					<th>CCTV Camera</th>
+					<th>Rope</th>
+					<th>Low Grade Fuel</th>
+					<th>Bone Fragments</th>
+					<th>Leather</th>
+					<th>Pumpkin</th>
+					<th>Crude Oil</th>
+					<th>Stones</th>
+					<th>RF Broadcaster</th>
+					<th>RF Receiver</th>
+					<th>Wolf Skull</th>
+					<th>Glue</th>
+					<th>Charcoal</th>
+					<th>Raw Human Meat</th>
+					<th>Animal Fat</th>
+					<th>Burst Module</th>
+					<th>Wooden Ladder</th>
+					<th>Medical Syringe</th>
+					<th>Beancan Grenade</th>
+					<th>Small Stash</th>
+					<th>Human Skull</th>
+					<th>Wooden Spear</th>
+					<th>Electric Fuse</th>
+					<th>Empty Tuna Can</th>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+</body>
+
 </html>
