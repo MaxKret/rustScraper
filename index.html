@@ -5,25 +5,39 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Rust Recycler</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+		integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
 	<script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
 </head>
 
 <body>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
-		integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
-		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.js"></script>
 	<script>
 		function arrayToTable(tableData) {
 			var table = $('<table name="data-table"></table>');
+			var header = $('<thead></thead>');
+			var body = $('<tbody></tbody>');
 			$(tableData).each(function (i, rowData) {
 				var row = $('<tr></tr>');
 				$(rowData).each(function (j, cellData) {
-					row.append($('<td>' + cellData + '</td>'));
+					if (i == 0) {
+						row.append($('<th>' + cellData + '</th>'));
+					}
+					else {
+						row.append($('<td>' + cellData + '</td>'));
+					}
 				});
-				table.append(row);
+				if (i == 0) {
+					header.append(row);
+				}
+				else {
+					body.append(row);
+				}
 			});
+			table.append(header);
+			table.append(body);
 			return table;
 		}
 
