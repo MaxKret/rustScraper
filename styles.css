@@ -1,6 +1,25 @@
+:root {
+	--page-background: #151719;
+	--header-text-color: #c7bab3;
+	--cell-text-color: #b6b4b8;
+	--cell-background: #241d29;
+}
+
 body {
 	margin: 0;
 	font-family: system-ui, sans-serif;
-	color: black;
-	background-color: white;
+	background-color: var(--page-background);
+	color: var(--cell-text-color);
+}
+
+th {
+	color: var(--header-text-color);
+}
+th:hover {
+	background: var(--cell-background);
+}
+
+td {
+	color: var(--cell-text-color);
+	background: var(--cell-background);
 }
