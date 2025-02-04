@@ -1,6 +1,6 @@
 addEventListener('DOMContentLoaded', () => {
 	let table = new DataTable('#myTable', {
-	  ajax: '/item_table.json',
+	  ajax: 'https://maxkret.github.io/rustScraper/item_table.json',
 	  columns: [
 		{ data: 'Item' },
 		{ data: 'Category' },
