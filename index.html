@@ -5,18 +5,16 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Rust Recycler</title>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
-		integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
-		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.js"></script>
+	<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
 	<script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.js"></script>
 </head>
 
 <body>
 	<script>
 		function arrayToTable(tableData) {
-			var table = $('<table id="myTable" class="display"></table>');
+			var table = $('<table id="myTable" class="display" style="width:100%"></table>');
 			var header = $('<thead></thead>');
 			var body = $('<tbody></tbody>');
 			$(tableData).each(function (i, rowData) {
@@ -48,9 +46,10 @@
 				$('body').append(arrayToTable(Papa.parse(data).data));
 			}
 		});
-	</script>
-	<script>
+
 		$(document).ready(function () {
+			console.log('ready');
+			console.log("$('#myTable').DataTable(); : "+ $('#myTable').DataTable());
 			$('#myTable').DataTable();
 		});
 	</script>
