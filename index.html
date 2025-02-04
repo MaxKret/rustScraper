@@ -16,7 +16,7 @@
 <body>
 	<script>
 		function arrayToTable(tableData) {
-			var table = $('<table name="data-table"></table>');
+			var table = $('<table id="myTable" class="display"></table>');
 			var header = $('<thead></thead>');
 			var body = $('<tbody></tbody>');
 			$(tableData).each(function (i, rowData) {
@@ -51,7 +51,7 @@
 	</script>
 	<script>
 		$(document).ready(function () {
-			$('#data-table').DataTable();
+			$('#myTable').DataTable();
 		});
 	</script>
 </body>
