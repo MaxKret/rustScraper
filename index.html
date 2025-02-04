@@ -1,59 +1,131 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <title>DataTables HTML example</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Rust Recycler</title>
-	<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
-	<link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
-	<script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.js"></script>
-</head>
+    <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.2.2/datatables.min.css" rel="stylesheet">
 
-<body>
-	<script>
-		function arrayToTable(tableData) {
-			var table = $('<table id="myTable" class="display" style="width:100%"></table>');
-			var header = $('<thead></thead>');
-			var body = $('<tbody></tbody>');
-			$(tableData).each(function (i, rowData) {
-				var row = $('<tr></tr>');
-				$(rowData).each(function (j, cellData) {
-					if (i == 0) {
-						row.append($('<th>' + cellData + '</th>'));
-					}
-					else {
-						row.append($('<td>' + cellData + '</td>'));
-					}
-				});
-				if (i == 0) {
-					header.append(row);
-				}
-				else {
-					body.append(row);
-				}
-			});
-			table.append(header);
-			table.append(body);
-			return table;
-		}
+    <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.2.2/datatables.min.js"></script>
 
-		$.ajax({
-			type: "GET",
-			url: "https://maxkret.github.io/rustScraper/item_table.csv",
-			success: function (data) {
-				$('body').append(arrayToTable(Papa.parse(data).data));
-			}
-		});
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <h1>DataTables HTML example</h1>
+      <p>
+        This example shows DataTables loaded via <code>script</code>
+        tags and Ajax loading object based data.
+      </p>
 
-		$(document).ready(function () {
-			console.log('ready');
-			console.log("$('#myTable').DataTable(); : "+ $('#myTable').DataTable());
-			console.log("DataTable(); : "+ DataTable());
-			$('#myTable').DataTable();
-		});
-	</script>
-</body>
-
+      <table id="myTable" class="display">
+        <thead>
+          <tr>
+            <th>Item</th>
+			<th>Category</th>
+			<th>Scrap</th>
+			<th>High Quality Metal</th>
+			<th>Tech Trash</th>
+			<th>Rifle Body</th>
+			<th>SMG Body</th>
+			<th>Semi Automatic Body</th>
+			<th>Gears</th>
+			<th>Metal Spring</th>
+			<th>Sheet Metal</th>
+			<th>Metal Pipe</th>
+			<th>Road Signs</th>
+			<th>Metal Blade</th>
+			<th>Empty Propane Tank</th>
+			<th>Metal Fragments</th>
+			<th>Gun Powder</th>
+			<th>Sulfur</th>
+			<th>Explosives</th>
+			<th>Tarp</th>
+			<th>Wood</th>
+			<th>Cloth</th>
+			<th>Sewing Kit</th>
+			<th>Targeting Computer</th>
+			<th>CCTV Camera</th>
+			<th>Rope</th>
+			<th>Low Grade Fuel</th>
+			<th>Bone Fragments</th>
+			<th>Leather</th>
+			<th>Pumpkin</th>
+			<th>Crude Oil</th>
+			<th>Stones</th>
+			<th>RF Broadcaster</th>
+			<th>RF Receiver</th>
+			<th>Wolf Skull</th>
+			<th>Glue</th>
+			<th>Charcoal</th>
+			<th>Raw Human Meat</th>
+			<th>Animal Fat</th>
+			<th>Burst Module</th>
+			<th>Wooden Ladder</th>
+			<th>Medical Syringe</th>
+			<th>Beancan Grenade</th>
+			<th>Small Stash</th>
+			<th>Human Skull</th>
+			<th>Wooden Spear</th>
+			<th>Electric Fuse</th>
+			<th>Empty Tuna Can</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <th>Item</th>
+			<th>Category</th>
+			<th>Scrap</th>
+			<th>High Quality Metal</th>
+			<th>Tech Trash</th>
+			<th>Rifle Body</th>
+			<th>SMG Body</th>
+			<th>Semi Automatic Body</th>
+			<th>Gears</th>
+			<th>Metal Spring</th>
+			<th>Sheet Metal</th>
+			<th>Metal Pipe</th>
+			<th>Road Signs</th>
+			<th>Metal Blade</th>
+			<th>Empty Propane Tank</th>
+			<th>Metal Fragments</th>
+			<th>Gun Powder</th>
+			<th>Sulfur</th>
+			<th>Explosives</th>
+			<th>Tarp</th>
+			<th>Wood</th>
+			<th>Cloth</th>
+			<th>Sewing Kit</th>
+			<th>Targeting Computer</th>
+			<th>CCTV Camera</th>
+			<th>Rope</th>
+			<th>Low Grade Fuel</th>
+			<th>Bone Fragments</th>
+			<th>Leather</th>
+			<th>Pumpkin</th>
+			<th>Crude Oil</th>
+			<th>Stones</th>
+			<th>RF Broadcaster</th>
+			<th>RF Receiver</th>
+			<th>Wolf Skull</th>
+			<th>Glue</th>
+			<th>Charcoal</th>
+			<th>Raw Human Meat</th>
+			<th>Animal Fat</th>
+			<th>Burst Module</th>
+			<th>Wooden Ladder</th>
+			<th>Medical Syringe</th>
+			<th>Beancan Grenade</th>
+			<th>Small Stash</th>
+			<th>Human Skull</th>
+			<th>Wooden Spear</th>
+			<th>Electric Fuse</th>
+			<th>Empty Tuna Can</th>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </body>
 </html>
