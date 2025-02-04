@@ -1,5 +1,6 @@
 :root {
 	--page-background: #151719;
+	--table-background: #1a1d20;
 	--header-text-color: #c7bab3;
 	--cell-text-color: #b6b4b8;
 	--cell-background: #241d29;
@@ -12,9 +13,14 @@ body {
 	color: var(--cell-text-color);
 }
 
+table {
+	background-color: var(--table-background);
+}
+
 th {
 	color: var(--header-text-color);
 }
+
 th:hover {
 	background: var(--cell-background);
 }
@@ -22,4 +28,18 @@ th:hover {
 td {
 	color: var(--cell-text-color);
 	background: var(--cell-background);
+}
+
+table.dataTable.cell-border>tbody>tr>* {
+	border-top: 3px solid var(--table-background);
+	border-right: 3px solid var(--table-background);
+}
+
+table.dataTable.cell-border>tbody>tr:first-child>* {
+	border-top: 3px solid var(--table-background);
+}
+
+table.dataTable>thead>tr>th, table.dataTable>thead>tr>td {
+	padding: 10px;
+    border-bottom: 0px solid rgba(0, 0, 0, 0);
 }
