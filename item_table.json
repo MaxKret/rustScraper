@@ -1,6 +1,7 @@
 {
 	"data": [
 		{
+			"id": "1",
 			"Item": "12 Gauge Buckshot",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -51,6 +52,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "2",
 			"Item": "12 Gauge Incendiary Shell",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -101,6 +103,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "3",
 			"Item": "12 Gauge Slug",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -151,6 +154,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "4",
 			"Item": "40mm HE Grenade",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -201,6 +205,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "5",
 			"Item": "40mm Shotgun Round",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -251,6 +256,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "6",
 			"Item": "40mm Smoke Grenade",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -301,6 +307,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "7",
 			"Item": "5.56 Rifle Ammo",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -351,6 +358,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "8",
 			"Item": "8x Zoom Scope",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -401,6 +409,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "9",
 			"Item": "AND Switch",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -451,6 +460,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "10",
 			"Item": "Above Ground Pool",
 			"Category": "Fun",
 			"Scrap": null,
@@ -501,6 +511,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "11",
 			"Item": "Acoustic Guitar",
 			"Category": "Fun",
 			"Scrap": null,
@@ -551,6 +562,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "12",
 			"Item": "Advent Calendar",
 			"Category": "Items",
 			"Scrap": null,
@@ -601,6 +613,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "13",
 			"Item": "Arctic Scientist Suit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -651,6 +664,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "14",
 			"Item": "Armored Cockpit Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -701,6 +715,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "15",
 			"Item": "Armored Door",
 			"Category": "Construction",
 			"Scrap": null,
@@ -751,6 +766,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "16",
 			"Item": "Armored Double Door",
 			"Category": "Construction",
 			"Scrap": null,
@@ -801,6 +817,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "17",
 			"Item": "Armored Passenger Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -851,6 +868,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "18",
 			"Item": "Assault Rifle",
 			"Category": "Gun",
 			"Scrap": null,
@@ -901,6 +919,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "19",
 			"Item": "Audio Alarm",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -951,6 +970,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "20",
 			"Item": "Auto Turret",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -1001,6 +1021,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "21",
 			"Item": "Bandage",
 			"Category": "Medical",
 			"Scrap": null,
@@ -1051,6 +1072,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "22",
 			"Item": "Bandana Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -1101,6 +1123,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "23",
 			"Item": "Bandit Guard Gear",
 			"Category": "Attire",
 			"Scrap": null,
@@ -1151,6 +1174,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "24",
 			"Item": "Barbed Wooden Barricade",
 			"Category": "Construction",
 			"Scrap": null,
@@ -1201,6 +1225,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "25",
 			"Item": "Barbeque",
 			"Category": "Items",
 			"Scrap": null,
@@ -1251,6 +1276,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "26",
 			"Item": "Baseball Cap",
 			"Category": "Attire",
 			"Scrap": null,
@@ -1301,6 +1327,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "27",
 			"Item": "Basic Horse Shoes",
 			"Category": "Attire",
 			"Scrap": null,
@@ -1351,6 +1378,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "28",
 			"Item": "Bath Tub Planter",
 			"Category": "Items",
 			"Scrap": null,
@@ -1401,6 +1429,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "29",
 			"Item": "Beach Chair",
 			"Category": "Fun",
 			"Scrap": null,
@@ -1451,6 +1480,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "30",
 			"Item": "Beach Parasol",
 			"Category": "Fun",
 			"Scrap": null,
@@ -1501,6 +1531,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "31",
 			"Item": "Beach Table",
 			"Category": "Fun",
 			"Scrap": null,
@@ -1551,6 +1582,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "32",
 			"Item": "Beach Towel",
 			"Category": "Fun",
 			"Scrap": null,
@@ -1601,6 +1633,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "33",
 			"Item": "Beancan Grenade",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -1651,6 +1684,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "34",
 			"Item": "Bed",
 			"Category": "Items",
 			"Scrap": null,
@@ -1701,6 +1735,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "35",
 			"Item": "Beenie Hat",
 			"Category": "Attire",
 			"Scrap": null,
@@ -1751,6 +1786,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "36",
 			"Item": "Binoculars",
 			"Category": "Tool",
 			"Scrap": null,
@@ -1801,6 +1837,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "37",
 			"Item": "Blocker",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -1851,6 +1888,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "38",
 			"Item": "Blue Boomer",
 			"Category": "Fun",
 			"Scrap": null,
@@ -1901,6 +1939,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "39",
 			"Item": "Blue Jumpsuit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -1951,6 +1990,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "40",
 			"Item": "Blue Roman Candle",
 			"Category": "Fun",
 			"Scrap": null,
@@ -2001,6 +2041,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "41",
 			"Item": "Bolt Action Rifle",
 			"Category": "Gun",
 			"Scrap": null,
@@ -2051,6 +2092,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "42",
 			"Item": "Bone Armor",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2101,6 +2143,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "43",
 			"Item": "Bone Arrow",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -2151,6 +2194,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "44",
 			"Item": "Bone Club",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -2201,6 +2245,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "45",
 			"Item": "Bone Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2251,6 +2296,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "46",
 			"Item": "Bone Knife",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -2301,6 +2347,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "47",
 			"Item": "Boogie Board",
 			"Category": "Fun",
 			"Scrap": null,
@@ -2351,6 +2398,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "48",
 			"Item": "Boom Box",
 			"Category": "Fun",
 			"Scrap": null,
@@ -2401,6 +2449,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "49",
 			"Item": "Boonie Hat",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2451,6 +2500,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "50",
 			"Item": "Boots",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2501,6 +2551,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "51",
 			"Item": "Bota Bag",
 			"Category": "Items",
 			"Scrap": null,
@@ -2551,6 +2602,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "52",
 			"Item": "Bucket Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2601,6 +2653,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "53",
 			"Item": "Building Plan",
 			"Category": "Construction",
 			"Scrap": null,
@@ -2651,6 +2704,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "54",
 			"Item": "Bunny Ears",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2701,6 +2755,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "55",
 			"Item": "Bunny Hat",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2751,6 +2806,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "56",
 			"Item": "Bunny Onesie",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2801,6 +2857,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "57",
 			"Item": "Burlap Gloves",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2851,6 +2908,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "58",
 			"Item": "Burlap Headwrap",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2901,6 +2959,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "59",
 			"Item": "Burlap Shirt",
 			"Category": "Attire",
 			"Scrap": null,
@@ -2951,6 +3010,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "60",
 			"Item": "Burlap Shoes",
 			"Category": "Attire",
 			"Scrap": null,
@@ -3001,6 +3061,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "61",
 			"Item": "Burlap Trousers",
 			"Category": "Attire",
 			"Scrap": null,
@@ -3051,6 +3112,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "62",
 			"Item": "Burst Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -3101,6 +3163,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "63",
 			"Item": "Butcher Knife",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -3151,6 +3214,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "64",
 			"Item": "Button",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -3201,6 +3265,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "65",
 			"Item": "CCTV Camera",
 			"Category": "Resources",
 			"Scrap": null,
@@ -3251,6 +3316,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "66",
 			"Item": "Cable Tunnel",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -3301,6 +3367,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "67",
 			"Item": "Camp Fire",
 			"Category": "Items",
 			"Scrap": null,
@@ -3351,6 +3418,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "68",
 			"Item": "Camper Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -3401,6 +3469,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "69",
 			"Item": "Canbourine",
 			"Category": "Fun",
 			"Scrap": null,
@@ -3451,6 +3520,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "70",
 			"Item": "Candle Hat",
 			"Category": "Attire",
 			"Scrap": null,
@@ -3501,6 +3571,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "71",
 			"Item": "Car Radio",
 			"Category": "Fun",
 			"Scrap": null,
@@ -3551,6 +3622,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "72",
 			"Item": "Card Movember Moustache",
 			"Category": "Attire",
 			"Scrap": null,
@@ -3601,6 +3673,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "73",
 			"Item": "Carvable Pumpkin",
 			"Category": "Items",
 			"Scrap": null,
@@ -3651,6 +3724,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "74",
 			"Item": "Cassette - Long",
 			"Category": "Fun",
 			"Scrap": null,
@@ -3701,6 +3775,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "75",
 			"Item": "Cassette - Medium",
 			"Category": "Fun",
 			"Scrap": null,
@@ -3751,6 +3826,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "76",
 			"Item": "Cassette - Short",
 			"Category": "Fun",
 			"Scrap": null,
@@ -3801,6 +3877,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "77",
 			"Item": "Cassette Recorder",
 			"Category": "Fun",
 			"Scrap": null,
@@ -3851,6 +3928,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "78",
 			"Item": "Ceiling Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -3901,6 +3979,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "79",
 			"Item": "Chainlink Fence",
 			"Category": "Construction",
 			"Scrap": null,
@@ -3951,6 +4030,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "80",
 			"Item": "Chainlink Fence Gate",
 			"Category": "Construction",
 			"Scrap": null,
@@ -4001,6 +4081,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "81",
 			"Item": "Chainsaw",
 			"Category": "Tool",
 			"Scrap": null,
@@ -4051,6 +4132,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "82",
 			"Item": "Chair",
 			"Category": "Items",
 			"Scrap": null,
@@ -4101,6 +4183,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "83",
 			"Item": "Champagne Boomer",
 			"Category": "Fun",
 			"Scrap": null,
@@ -4151,6 +4234,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "84",
 			"Item": "Chicken Costume",
 			"Category": "Attire",
 			"Scrap": null,
@@ -4201,6 +4285,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "85",
 			"Item": "Chinese Lantern",
 			"Category": "Items",
 			"Scrap": null,
@@ -4251,6 +4336,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "86",
 			"Item": "Chinese Lantern White",
 			"Category": "Items",
 			"Scrap": null,
@@ -4301,6 +4387,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "87",
 			"Item": "Chippy Arcade Game",
 			"Category": "Items",
 			"Scrap": null,
@@ -4351,6 +4438,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "88",
 			"Item": "Christmas Door Wreath",
 			"Category": "Items",
 			"Scrap": null,
@@ -4401,6 +4489,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "89",
 			"Item": "Christmas Lights",
 			"Category": "Items",
 			"Scrap": null,
@@ -4451,6 +4540,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "90",
 			"Item": "Christmas Tree",
 			"Category": "Items",
 			"Scrap": null,
@@ -4501,6 +4591,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "91",
 			"Item": "Clan Table",
 			"Category": "Items",
 			"Scrap": null,
@@ -4551,6 +4642,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "92",
 			"Item": "Clatter Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -4601,6 +4693,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "93",
 			"Item": "Coal :(",
 			"Category": "Resources",
 			"Scrap": null,
@@ -4651,6 +4744,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "94",
 			"Item": "Cockpit Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -4701,6 +4795,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "95",
 			"Item": "Cockpit With Engine Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -4751,6 +4846,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "96",
 			"Item": "Code Lock",
 			"Category": "Construction",
 			"Scrap": null,
@@ -4801,6 +4897,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "97",
 			"Item": "Coffee Can Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -4851,6 +4948,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "98",
 			"Item": "Coffin",
 			"Category": "Misc",
 			"Scrap": null,
@@ -4901,6 +4999,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "99",
 			"Item": "Combat Knife",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -4951,6 +5050,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "100",
 			"Item": "Composter",
 			"Category": "Items",
 			"Scrap": null,
@@ -5001,6 +5101,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "101",
 			"Item": "Compound Bow",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -5051,6 +5152,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "102",
 			"Item": "Computer Station",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -5101,6 +5203,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "103",
 			"Item": "Concrete Barricade",
 			"Category": "Construction",
 			"Scrap": null,
@@ -5151,6 +5254,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "104",
 			"Item": "Confetti Cannon",
 			"Category": "Fun",
 			"Scrap": null,
@@ -5201,6 +5305,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "105",
 			"Item": "Connected Speaker",
 			"Category": "Fun",
 			"Scrap": null,
@@ -5251,6 +5356,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "106",
 			"Item": "Counter",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -5301,6 +5407,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "107",
 			"Item": "Cowbell",
 			"Category": "Fun",
 			"Scrap": null,
@@ -5351,6 +5458,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "108",
 			"Item": "Crossbow",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -5401,6 +5509,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "109",
 			"Item": "Cursed Cauldron",
 			"Category": "Misc",
 			"Scrap": null,
@@ -5451,6 +5560,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "110",
 			"Item": "Custom SMG",
 			"Category": "Gun",
 			"Scrap": null,
@@ -5501,6 +5611,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "111",
 			"Item": "Decorative Baubels",
 			"Category": "Misc",
 			"Scrap": 2.0,
@@ -5551,6 +5662,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "112",
 			"Item": "Decorative Gingerbread Men",
 			"Category": "Misc",
 			"Scrap": null,
@@ -5601,6 +5713,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "113",
 			"Item": "Decorative Pinecones",
 			"Category": "Misc",
 			"Scrap": null,
@@ -5651,6 +5764,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "114",
 			"Item": "Decorative Plastic Candy Canes",
 			"Category": "Misc",
 			"Scrap": null,
@@ -5701,6 +5815,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "115",
 			"Item": "Decorative Tinsel",
 			"Category": "Misc",
 			"Scrap": 3.0,
@@ -5751,6 +5866,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "116",
 			"Item": "Deluxe Christmas Lights",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -5801,6 +5917,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "117",
 			"Item": "Digital Clock",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -5851,6 +5968,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "118",
 			"Item": "Disco Ball",
 			"Category": "Fun",
 			"Scrap": null,
@@ -5901,6 +6019,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "119",
 			"Item": "Disco Floor",
 			"Category": "Fun",
 			"Scrap": null,
@@ -5951,6 +6070,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "120",
 			"Item": "Diver propulsion vehicle",
 			"Category": "Items",
 			"Scrap": null,
@@ -6001,6 +6121,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "121",
 			"Item": "Diving Fins",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6051,6 +6172,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "122",
 			"Item": "Diving Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6101,6 +6223,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "123",
 			"Item": "Diving Tank",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6151,6 +6274,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "124",
 			"Item": "Door Closer",
 			"Category": "Construction",
 			"Scrap": null,
@@ -6201,6 +6325,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "125",
 			"Item": "Door Controller",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -6251,6 +6376,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "126",
 			"Item": "Door Key",
 			"Category": "Misc",
 			"Scrap": null,
@@ -6301,6 +6427,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "127",
 			"Item": "Double Barrel Shotgun",
 			"Category": "Gun",
 			"Scrap": null,
@@ -6351,6 +6478,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "128",
 			"Item": "Double Horse Saddle",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6401,6 +6529,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "129",
 			"Item": "Double Sign Post",
 			"Category": "Items",
 			"Scrap": null,
@@ -6451,6 +6580,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "130",
 			"Item": "Dracula Cape",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6501,6 +6631,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "131",
 			"Item": "Dracula Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6551,6 +6682,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "132",
 			"Item": "Dragon Door Knocker",
 			"Category": "Items",
 			"Scrap": null,
@@ -6601,6 +6733,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "133",
 			"Item": "Dragon Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6651,6 +6784,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "134",
 			"Item": "Drone",
 			"Category": "Items",
 			"Scrap": null,
@@ -6701,6 +6835,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "135",
 			"Item": "Drop Box",
 			"Category": "Items",
 			"Scrap": null,
@@ -6751,6 +6886,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "136",
 			"Item": "Duct Tape",
 			"Category": "Component",
 			"Scrap": null,
@@ -6801,6 +6937,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "137",
 			"Item": "Easter Door Wreath",
 			"Category": "Items",
 			"Scrap": null,
@@ -6851,6 +6988,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "138",
 			"Item": "Egg Basket",
 			"Category": "Misc",
 			"Scrap": 18.0,
@@ -6901,6 +7039,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "139",
 			"Item": "Egg Suit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -6951,6 +7090,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "140",
 			"Item": "Electric Furnace",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -7001,6 +7141,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "141",
 			"Item": "Electric Fuse",
 			"Category": "Component",
 			"Scrap": 24.0,
@@ -7051,6 +7192,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "142",
 			"Item": "Electric Heater",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -7101,6 +7243,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "143",
 			"Item": "Electrical Branch",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -7151,6 +7294,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "144",
 			"Item": "Elevator",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -7201,6 +7345,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "145",
 			"Item": "Empty Can Of Beans",
 			"Category": "Resources",
 			"Scrap": null,
@@ -7251,6 +7396,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "146",
 			"Item": "Empty Propane Tank",
 			"Category": "Component",
 			"Scrap": 1.0,
@@ -7301,6 +7447,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "147",
 			"Item": "Empty Tuna Can",
 			"Category": "Resources",
 			"Scrap": null,
@@ -7351,6 +7498,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "148",
 			"Item": "Engine Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -7401,6 +7549,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "149",
 			"Item": "Eoka Pistol",
 			"Category": "Gun",
 			"Scrap": null,
@@ -7451,6 +7600,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "150",
 			"Item": "Explosive 5.56 Rifle Ammo",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -7501,6 +7651,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "151",
 			"Item": "Explosives",
 			"Category": "Resources",
 			"Scrap": null,
@@ -7551,6 +7702,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "152",
 			"Item": "Extended Magazine",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -7601,6 +7753,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "153",
 			"Item": "F1 Grenade",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -7651,6 +7804,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "154",
 			"Item": "Festive Doorway Garland",
 			"Category": "Items",
 			"Scrap": null,
@@ -7701,6 +7855,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "155",
 			"Item": "Festive Double Doorway Garland",
 			"Category": "Items",
 			"Scrap": null,
@@ -7751,6 +7906,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "156",
 			"Item": "Festive Window Garland",
 			"Category": "Items",
 			"Scrap": null,
@@ -7801,6 +7957,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "157",
 			"Item": "Fire Arrow",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -7851,6 +8008,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "158",
 			"Item": "Firecracker String",
 			"Category": "Fun",
 			"Scrap": null,
@@ -7901,6 +8059,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "159",
 			"Item": "Fish Trophy",
 			"Category": "Items",
 			"Scrap": null,
@@ -7951,6 +8110,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "160",
 			"Item": "Flame Thrower",
 			"Category": "Gun",
 			"Scrap": null,
@@ -8001,6 +8161,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "161",
 			"Item": "Flame Turret",
 			"Category": "Traps",
 			"Scrap": null,
@@ -8051,6 +8212,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "162",
 			"Item": "Flare",
 			"Category": "Tool",
 			"Scrap": null,
@@ -8101,6 +8263,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "163",
 			"Item": "Flashbang",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -8151,6 +8314,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "164",
 			"Item": "Flasher Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -8201,6 +8365,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "165",
 			"Item": "Flashlight",
 			"Category": "Tool",
 			"Scrap": null,
@@ -8251,6 +8416,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "166",
 			"Item": "Flatbed Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -8301,6 +8467,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "167",
 			"Item": "Floor grill",
 			"Category": "Construction",
 			"Scrap": null,
@@ -8351,6 +8518,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "168",
 			"Item": "Floor triangle grill",
 			"Category": "Construction",
 			"Scrap": null,
@@ -8401,6 +8569,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "169",
 			"Item": "Fluid Combiner",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -8451,6 +8620,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "170",
 			"Item": "Fluid Splitter",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -8501,6 +8671,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "171",
 			"Item": "Fluid Switch & Pump",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -8551,6 +8722,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "172",
 			"Item": "Fogger-3000",
 			"Category": "Misc",
 			"Scrap": null,
@@ -8601,6 +8773,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "173",
 			"Item": "Frankenstein Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -8651,6 +8824,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "174",
 			"Item": "Frankenstein Table",
 			"Category": "Items",
 			"Scrap": null,
@@ -8701,6 +8875,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "175",
 			"Item": "Fridge",
 			"Category": "Items",
 			"Scrap": null,
@@ -8751,6 +8926,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "176",
 			"Item": "Frog Boots",
 			"Category": "Attire",
 			"Scrap": null,
@@ -8801,6 +8977,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "177",
 			"Item": "Frontier Bolts Single Item Rack",
 			"Category": "Items",
 			"Scrap": null,
@@ -8851,6 +9028,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "178",
 			"Item": "Frontier Horns Single Item Rack",
 			"Category": "Items",
 			"Scrap": null,
@@ -8901,6 +9079,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "179",
 			"Item": "Frontier Horseshoe Single Item Rack",
 			"Category": "Items",
 			"Scrap": null,
@@ -8951,6 +9130,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "180",
 			"Item": "Fuel Tank Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -9001,6 +9181,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "181",
 			"Item": "Furnace",
 			"Category": "Items",
 			"Scrap": null,
@@ -9051,6 +9232,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "182",
 			"Item": "Garage Door",
 			"Category": "Construction",
 			"Scrap": null,
@@ -9101,6 +9283,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "183",
 			"Item": "Garry's Mod Tool Gun",
 			"Category": "Tool",
 			"Scrap": null,
@@ -9151,6 +9334,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "184",
 			"Item": "Gas Compression Overdrive",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -9201,6 +9385,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "185",
 			"Item": "Gas Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -9251,6 +9436,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "186",
 			"Item": "Gears",
 			"Category": "Component",
 			"Scrap": 12.0,
@@ -9301,6 +9487,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "187",
 			"Item": "Geiger Counter",
 			"Category": "Tool",
 			"Scrap": null,
@@ -9351,6 +9538,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "188",
 			"Item": "Ghost Costume",
 			"Category": "Attire",
 			"Scrap": null,
@@ -9401,6 +9589,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "189",
 			"Item": "Giant Candy Decor",
 			"Category": "Misc",
 			"Scrap": null,
@@ -9451,6 +9640,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "190",
 			"Item": "Giant Lollipop Decor",
 			"Category": "Misc",
 			"Scrap": null,
@@ -9501,6 +9691,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "191",
 			"Item": "Gravestone",
 			"Category": "Misc",
 			"Scrap": null,
@@ -9551,6 +9742,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "192",
 			"Item": "Graveyard Fence",
 			"Category": "Misc",
 			"Scrap": null,
@@ -9601,6 +9793,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "193",
 			"Item": "Green Boomer",
 			"Category": "Fun",
 			"Scrap": null,
@@ -9651,6 +9844,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "194",
 			"Item": "Green Industrial Wall Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -9701,6 +9895,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "195",
 			"Item": "Green Roman Candle",
 			"Category": "Fun",
 			"Scrap": null,
@@ -9751,6 +9946,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "196",
 			"Item": "Gun Powder",
 			"Category": "Resources",
 			"Scrap": null,
@@ -9801,6 +9997,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "197",
 			"Item": "HBHF Sensor",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -9851,6 +10048,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "198",
 			"Item": "HMLMG",
 			"Category": "Gun",
 			"Scrap": null,
@@ -9901,6 +10099,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "199",
 			"Item": "HV 5.56 Rifle Ammo",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -9951,6 +10150,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "200",
 			"Item": "HV Pistol Ammo",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -10001,6 +10201,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "201",
 			"Item": "Hammer",
 			"Category": "Tool",
 			"Scrap": null,
@@ -10051,6 +10252,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "202",
 			"Item": "Handcuffs",
 			"Category": "Tool",
 			"Scrap": null,
@@ -10101,6 +10303,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "203",
 			"Item": "Handmade Fishing Rod",
 			"Category": "Tool",
 			"Scrap": null,
@@ -10151,6 +10354,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "204",
 			"Item": "Handmade SMG",
 			"Category": "Gun",
 			"Scrap": null,
@@ -10201,6 +10405,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "205",
 			"Item": "Handmade Shell",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -10251,6 +10456,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "206",
 			"Item": "Hatchet",
 			"Category": "Tool",
 			"Scrap": null,
@@ -10301,6 +10507,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "207",
 			"Item": "Hazmat Plushy",
 			"Category": "Items",
 			"Scrap": null,
@@ -10351,6 +10558,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "208",
 			"Item": "Hazmat Suit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10401,6 +10609,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "209",
 			"Item": "Hazmat Youtooz",
 			"Category": "Items",
 			"Scrap": null,
@@ -10451,6 +10660,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "210",
 			"Item": "Headset",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10501,6 +10711,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "211",
 			"Item": "Heavy Frankenstein Head",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10551,6 +10762,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "212",
 			"Item": "Heavy Frankenstein Legs",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10601,6 +10813,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "213",
 			"Item": "Heavy Frankenstein Torso",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10651,6 +10864,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "214",
 			"Item": "Heavy Plate Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10701,6 +10915,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "215",
 			"Item": "Heavy Plate Jacket",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10751,6 +10966,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "216",
 			"Item": "Heavy Plate Pants",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10801,6 +11017,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "217",
 			"Item": "Heavy Scientist Suit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10851,6 +11068,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "218",
 			"Item": "Heavy Scientist Youtooz",
 			"Category": "Items",
 			"Scrap": null,
@@ -10901,6 +11119,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "219",
 			"Item": "Hide Boots",
 			"Category": "Attire",
 			"Scrap": null,
@@ -10951,6 +11170,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "220",
 			"Item": "Hide Halterneck",
 			"Category": "Attire",
 			"Scrap": null,
@@ -11001,6 +11221,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "221",
 			"Item": "Hide Pants",
 			"Category": "Attire",
 			"Scrap": null,
@@ -11051,6 +11272,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "222",
 			"Item": "Hide Poncho",
 			"Category": "Attire",
 			"Scrap": null,
@@ -11101,6 +11323,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "223",
 			"Item": "Hide Skirt",
 			"Category": "Attire",
 			"Scrap": null,
@@ -11151,6 +11374,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "224",
 			"Item": "Hide Vest",
 			"Category": "Attire",
 			"Scrap": null,
@@ -11201,6 +11425,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "225",
 			"Item": "High Caliber Revolver",
 			"Category": "Gun",
 			"Scrap": null,
@@ -11251,6 +11476,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "226",
 			"Item": "High External Stone Gate",
 			"Category": "Construction",
 			"Scrap": null,
@@ -11301,6 +11527,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "227",
 			"Item": "High External Stone Wall",
 			"Category": "Construction",
 			"Scrap": null,
@@ -11351,6 +11578,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "228",
 			"Item": "High External Wooden Gate",
 			"Category": "Construction",
 			"Scrap": null,
@@ -11401,6 +11629,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "229",
 			"Item": "High External Wooden Wall",
 			"Category": "Construction",
 			"Scrap": null,
@@ -11451,6 +11680,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "230",
 			"Item": "High Ice Wall",
 			"Category": "Construction",
 			"Scrap": null,
@@ -11501,6 +11731,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "231",
 			"Item": "High Quality Carburetor",
 			"Category": "Component",
 			"Scrap": null,
@@ -11551,6 +11782,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "232",
 			"Item": "High Quality Crankshaft",
 			"Category": "Component",
 			"Scrap": null,
@@ -11601,6 +11833,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "233",
 			"Item": "High Quality Horse Shoes",
 			"Category": "Attire",
 			"Scrap": null,
@@ -11651,6 +11884,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "234",
 			"Item": "High Quality Pistons",
 			"Category": "Component",
 			"Scrap": null,
@@ -11701,6 +11935,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "235",
 			"Item": "High Quality Spark Plugs",
 			"Category": "Component",
 			"Scrap": null,
@@ -11751,6 +11986,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "236",
 			"Item": "High Quality Valves",
 			"Category": "Component",
 			"Scrap": null,
@@ -11801,6 +12037,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "237",
 			"Item": "High Velocity Arrow",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -11851,6 +12088,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "238",
 			"Item": "High Velocity Rocket",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -11901,6 +12139,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "239",
 			"Item": "Hitch & Trough",
 			"Category": "Items",
 			"Scrap": null,
@@ -11951,6 +12190,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "240",
 			"Item": "Hobo Barrel",
 			"Category": "Items",
 			"Scrap": null,
@@ -12001,6 +12241,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "241",
 			"Item": "Holosight",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -12051,6 +12292,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "242",
 			"Item": "Homemade Landmine",
 			"Category": "Traps",
 			"Scrap": null,
@@ -12101,6 +12343,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "243",
 			"Item": "Homing Missile",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -12151,6 +12394,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "244",
 			"Item": "Homing Missile Launcher",
 			"Category": "Gun",
 			"Scrap": null,
@@ -12201,6 +12445,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "245",
 			"Item": "Hoodie",
 			"Category": "Attire",
 			"Scrap": null,
@@ -12251,6 +12496,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "246",
 			"Item": "Horizontal Weapon Rack",
 			"Category": "Items",
 			"Scrap": null,
@@ -12301,6 +12547,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "247",
 			"Item": "Horse Saddle",
 			"Category": "Attire",
 			"Scrap": null,
@@ -12351,6 +12598,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "248",
 			"Item": "Hose Tool",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -12401,6 +12649,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "249",
 			"Item": "Hot Air Balloon Armor",
 			"Category": "Attire",
 			"Scrap": null,
@@ -12451,6 +12700,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "250",
 			"Item": "Huge Wooden Sign",
 			"Category": "Items",
 			"Scrap": null,
@@ -12501,6 +12751,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "251",
 			"Item": "Hunting Bow",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -12551,6 +12802,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "252",
 			"Item": "Ice Sculpture",
 			"Category": "Items",
 			"Scrap": null,
@@ -12601,6 +12853,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "253",
 			"Item": "Igniter",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -12651,6 +12904,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "254",
 			"Item": "Improvised Balaclava",
 			"Category": "Attire",
 			"Scrap": null,
@@ -12701,6 +12955,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "255",
 			"Item": "Incendiary 5.56 Rifle Ammo",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -12751,6 +13006,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "256",
 			"Item": "Incendiary Pistol Bullet",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -12801,6 +13057,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "257",
 			"Item": "Incendiary Rocket",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -12851,6 +13108,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "258",
 			"Item": "Industrial Combiner",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -12901,6 +13159,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "259",
 			"Item": "Industrial Conveyor",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -12951,6 +13210,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "260",
 			"Item": "Industrial Crafter",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -13001,6 +13261,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "261",
 			"Item": "Industrial Splitter",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -13051,6 +13312,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "262",
 			"Item": "Industrial Wall Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -13101,6 +13363,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "263",
 			"Item": "Inner Tube",
 			"Category": "Fun",
 			"Scrap": null,
@@ -13151,6 +13414,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "264",
 			"Item": "Instant Camera",
 			"Category": "Tool",
 			"Scrap": null,
@@ -13201,6 +13465,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "265",
 			"Item": "Jack O Lantern Angry",
 			"Category": "Items",
 			"Scrap": null,
@@ -13251,6 +13516,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "266",
 			"Item": "Jack O Lantern Happy",
 			"Category": "Items",
 			"Scrap": null,
@@ -13301,6 +13567,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "267",
 			"Item": "Jacket",
 			"Category": "Attire",
 			"Scrap": null,
@@ -13351,6 +13618,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "268",
 			"Item": "Jackhammer",
 			"Category": "Tool",
 			"Scrap": 36.0,
@@ -13401,6 +13669,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "269",
 			"Item": "Jerry Can Guitar",
 			"Category": "Fun",
 			"Scrap": null,
@@ -13451,6 +13720,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "270",
 			"Item": "Jumpsuit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -13501,6 +13771,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "271",
 			"Item": "Junkyard Drum Kit",
 			"Category": "Fun",
 			"Scrap": null,
@@ -13551,6 +13822,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "272",
 			"Item": "Kayak",
 			"Category": "Items",
 			"Scrap": null,
@@ -13601,6 +13873,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "273",
 			"Item": "Key Lock",
 			"Category": "Construction",
 			"Scrap": null,
@@ -13651,6 +13924,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "274",
 			"Item": "L96 Rifle",
 			"Category": "Gun",
 			"Scrap": null,
@@ -13701,6 +13975,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "275",
 			"Item": "LR-300 Assault Rifle",
 			"Category": "Gun",
 			"Scrap": null,
@@ -13751,6 +14026,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "276",
 			"Item": "Ladder Hatch",
 			"Category": "Construction",
 			"Scrap": null,
@@ -13801,6 +14077,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "277",
 			"Item": "Landscape Photo Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -13851,6 +14128,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "278",
 			"Item": "Landscape Picture Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -13901,6 +14179,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "279",
 			"Item": "Lantern",
 			"Category": "Items",
 			"Scrap": null,
@@ -13951,6 +14230,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "280",
 			"Item": "Large Animated Neon Sign",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -14001,6 +14281,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "281",
 			"Item": "Large Backpack",
 			"Category": "Attire",
 			"Scrap": 12.0,
@@ -14051,6 +14332,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "282",
 			"Item": "Large Banner Hanging",
 			"Category": "Items",
 			"Scrap": null,
@@ -14101,6 +14383,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "283",
 			"Item": "Large Banner on pole",
 			"Category": "Items",
 			"Scrap": null,
@@ -14151,6 +14434,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "284",
 			"Item": "Large Candle Set",
 			"Category": "Misc",
 			"Scrap": null,
@@ -14201,6 +14485,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "285",
 			"Item": "Large Flatbed Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -14251,6 +14536,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "286",
 			"Item": "Large Furnace",
 			"Category": "Items",
 			"Scrap": null,
@@ -14301,6 +14587,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "287",
 			"Item": "Large Hunting Trophy",
 			"Category": "Items",
 			"Scrap": null,
@@ -14351,6 +14638,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "288",
 			"Item": "Large Medkit",
 			"Category": "Medical",
 			"Scrap": null,
@@ -14401,6 +14689,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "289",
 			"Item": "Large Neon Sign",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -14451,6 +14740,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "290",
 			"Item": "Large Photo Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -14501,6 +14791,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "291",
 			"Item": "Large Planter Box",
 			"Category": "Items",
 			"Scrap": null,
@@ -14551,6 +14842,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "292",
 			"Item": "Large Rechargeable Battery",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -14601,6 +14893,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "293",
 			"Item": "Large Solar Panel",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -14651,6 +14944,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "294",
 			"Item": "Large Water Catcher",
 			"Category": "Construction",
 			"Scrap": null,
@@ -14701,6 +14995,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "295",
 			"Item": "Large Wood Box",
 			"Category": "Items",
 			"Scrap": null,
@@ -14751,6 +15046,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "296",
 			"Item": "Large Wooden Sign",
 			"Category": "Items",
 			"Scrap": null,
@@ -14801,6 +15097,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "297",
 			"Item": "Laser Detector",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -14851,6 +15148,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "298",
 			"Item": "Laser Light",
 			"Category": "Fun",
 			"Scrap": null,
@@ -14901,6 +15199,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "299",
 			"Item": "Leather Gloves",
 			"Category": "Attire",
 			"Scrap": null,
@@ -14951,6 +15250,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "300",
 			"Item": "Legacy Wood Shelter",
 			"Category": "Construction",
 			"Scrap": null,
@@ -15001,6 +15301,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "301",
 			"Item": "Light Frankenstein Head",
 			"Category": "Attire",
 			"Scrap": null,
@@ -15051,6 +15352,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "302",
 			"Item": "Light Frankenstein Legs",
 			"Category": "Attire",
 			"Scrap": null,
@@ -15101,6 +15403,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "303",
 			"Item": "Light Frankenstein Torso",
 			"Category": "Attire",
 			"Scrap": null,
@@ -15151,6 +15454,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "304",
 			"Item": "Locker",
 			"Category": "Items",
 			"Scrap": null,
@@ -15201,6 +15505,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "305",
 			"Item": "Longsleeve T-Shirt",
 			"Category": "Attire",
 			"Scrap": null,
@@ -15251,6 +15556,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "306",
 			"Item": "Longsword",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -15301,6 +15607,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "307",
 			"Item": "Low Grade Fuel",
 			"Category": "Resources",
 			"Scrap": null,
@@ -15351,6 +15658,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "308",
 			"Item": "Low Quality Carburetor",
 			"Category": "Component",
 			"Scrap": null,
@@ -15401,6 +15709,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "309",
 			"Item": "Low Quality Crankshaft",
 			"Category": "Component",
 			"Scrap": null,
@@ -15451,6 +15760,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "310",
 			"Item": "Low Quality Pistons",
 			"Category": "Component",
 			"Scrap": null,
@@ -15501,6 +15811,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "311",
 			"Item": "Low Quality Spark Plugs",
 			"Category": "Component",
 			"Scrap": null,
@@ -15551,6 +15862,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "312",
 			"Item": "Low Quality Valves",
 			"Category": "Component",
 			"Scrap": null,
@@ -15601,6 +15913,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "313",
 			"Item": "Lumberjack Hoodie",
 			"Category": "Attire",
 			"Scrap": null,
@@ -15651,6 +15964,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "314",
 			"Item": "M249",
 			"Category": "Gun",
 			"Scrap": null,
@@ -15701,6 +16015,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "315",
 			"Item": "M39 Rifle",
 			"Category": "Gun",
 			"Scrap": null,
@@ -15751,6 +16066,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "316",
 			"Item": "M4 Shotgun",
 			"Category": "Gun",
 			"Scrap": null,
@@ -15801,6 +16117,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "317",
 			"Item": "M92 Pistol",
 			"Category": "Gun",
 			"Scrap": null,
@@ -15851,6 +16168,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "318",
 			"Item": "MLRS Aiming Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -15901,6 +16219,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "319",
 			"Item": "MLRS Rocket",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -15951,6 +16270,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "320",
 			"Item": "MP5A4",
 			"Category": "Gun",
 			"Scrap": null,
@@ -16001,6 +16321,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "321",
 			"Item": "Mace",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -16051,6 +16372,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "322",
 			"Item": "Machete",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -16101,6 +16423,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "323",
 			"Item": "Mail Box",
 			"Category": "Items",
 			"Scrap": null,
@@ -16151,6 +16474,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "324",
 			"Item": "Medical Syringe",
 			"Category": "Medical",
 			"Scrap": null,
@@ -16201,6 +16525,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "325",
 			"Item": "Medium Animated Neon Sign",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -16251,6 +16576,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "326",
 			"Item": "Medium Frankenstein Head",
 			"Category": "Attire",
 			"Scrap": null,
@@ -16301,6 +16627,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "327",
 			"Item": "Medium Frankenstein Legs",
 			"Category": "Attire",
 			"Scrap": null,
@@ -16351,6 +16678,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "328",
 			"Item": "Medium Frankenstein Torso",
 			"Category": "Attire",
 			"Scrap": null,
@@ -16401,6 +16729,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "329",
 			"Item": "Medium Neon Sign",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -16451,6 +16780,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "330",
 			"Item": "Medium Quality Carburetor",
 			"Category": "Component",
 			"Scrap": null,
@@ -16501,6 +16831,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "331",
 			"Item": "Medium Quality Crankshaft",
 			"Category": "Component",
 			"Scrap": null,
@@ -16551,6 +16882,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "332",
 			"Item": "Medium Quality Pistons",
 			"Category": "Component",
 			"Scrap": null,
@@ -16601,6 +16933,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "333",
 			"Item": "Medium Quality Spark Plugs",
 			"Category": "Component",
 			"Scrap": null,
@@ -16651,6 +16984,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "334",
 			"Item": "Medium Quality Valves",
 			"Category": "Component",
 			"Scrap": null,
@@ -16701,6 +17035,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "335",
 			"Item": "Medium Rechargeable Battery",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -16751,6 +17086,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "336",
 			"Item": "Medium Wooden Sign",
 			"Category": "Items",
 			"Scrap": null,
@@ -16801,6 +17137,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "337",
 			"Item": "Megaphone",
 			"Category": "Fun",
 			"Scrap": null,
@@ -16851,6 +17188,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "338",
 			"Item": "Memory Cell",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -16901,6 +17239,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "339",
 			"Item": "Metal Barricade",
 			"Category": "Construction",
 			"Scrap": null,
@@ -16951,6 +17290,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "340",
 			"Item": "Metal Blade",
 			"Category": "Component",
 			"Scrap": 2.0,
@@ -17001,6 +17341,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "341",
 			"Item": "Metal Chest Plate",
 			"Category": "Attire",
 			"Scrap": null,
@@ -17051,6 +17392,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "342",
 			"Item": "Metal Detector",
 			"Category": "Tool",
 			"Scrap": null,
@@ -17101,6 +17443,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "343",
 			"Item": "Metal Facemask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -17151,6 +17494,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "344",
 			"Item": "Metal Pipe",
 			"Category": "Component",
 			"Scrap": 6.0,
@@ -17201,6 +17545,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "345",
 			"Item": "Metal Shop Front",
 			"Category": "Construction",
 			"Scrap": null,
@@ -17251,6 +17596,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "346",
 			"Item": "Metal Spring",
 			"Category": "Component",
 			"Scrap": 12.0,
@@ -17301,6 +17647,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "347",
 			"Item": "Metal Vertical embrasure",
 			"Category": "Construction",
 			"Scrap": null,
@@ -17351,6 +17698,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "348",
 			"Item": "Metal Window Bars",
 			"Category": "Construction",
 			"Scrap": null,
@@ -17401,6 +17749,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "349",
 			"Item": "Metal horizontal embrasure",
 			"Category": "Construction",
 			"Scrap": null,
@@ -17451,6 +17800,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "350",
 			"Item": "Microphone Stand",
 			"Category": "Fun",
 			"Scrap": null,
@@ -17501,6 +17851,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "351",
 			"Item": "Military Flame Thrower",
 			"Category": "Gun",
 			"Scrap": null,
@@ -17551,6 +17902,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "352",
 			"Item": "Minecart Planter",
 			"Category": "Items",
 			"Scrap": null,
@@ -17601,6 +17953,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "353",
 			"Item": "Miners Hat",
 			"Category": "Attire",
 			"Scrap": null,
@@ -17651,6 +18004,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "354",
 			"Item": "Minigun",
 			"Category": "Gun",
 			"Scrap": null,
@@ -17701,6 +18055,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "355",
 			"Item": "Mixing Table",
 			"Category": "Items",
 			"Scrap": null,
@@ -17751,6 +18106,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "356",
 			"Item": "Mobile Phone",
 			"Category": "Fun",
 			"Scrap": null,
@@ -17801,6 +18157,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "357",
 			"Item": "Modular Car Lift",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -17851,6 +18208,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "358",
 			"Item": "Molotov Cocktail",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -17901,6 +18259,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "359",
 			"Item": "Movember Moustache",
 			"Category": "Attire",
 			"Scrap": null,
@@ -17951,6 +18310,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "360",
 			"Item": "Multiple Grenade Launcher",
 			"Category": "Gun",
 			"Scrap": null,
@@ -18001,6 +18361,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "361",
 			"Item": "Mummy Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -18051,6 +18412,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "362",
 			"Item": "Muzzle Boost",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -18101,6 +18463,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "363",
 			"Item": "Muzzle Brake",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -18151,6 +18514,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "364",
 			"Item": "NVGM Scientist Suit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -18201,6 +18565,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "365",
 			"Item": "Nailgun",
 			"Category": "Gun",
 			"Scrap": 12.0,
@@ -18251,6 +18616,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "366",
 			"Item": "Nailgun Nails",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -18301,6 +18667,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "367",
 			"Item": "Nest Hat",
 			"Category": "Attire",
 			"Scrap": null,
@@ -18351,6 +18718,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "368",
 			"Item": "Netting",
 			"Category": "Construction",
 			"Scrap": null,
@@ -18401,6 +18769,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "369",
 			"Item": "New Year Gong",
 			"Category": "Fun",
 			"Scrap": null,
@@ -18451,6 +18820,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "370",
 			"Item": "Night Vision Goggles",
 			"Category": "Attire",
 			"Scrap": null,
@@ -18501,6 +18871,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "371",
 			"Item": "Ninja Suit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -18551,6 +18922,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "372",
 			"Item": "Note",
 			"Category": "Misc",
 			"Scrap": null,
@@ -18601,6 +18973,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "373",
 			"Item": "OR Switch",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -18651,6 +19024,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "374",
 			"Item": "One Sided Town Sign Post",
 			"Category": "Items",
 			"Scrap": null,
@@ -18701,6 +19075,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "375",
 			"Item": "Orange Boomer",
 			"Category": "Fun",
 			"Scrap": null,
@@ -18751,6 +19126,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "376",
 			"Item": "Ox Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -18801,6 +19177,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "377",
 			"Item": "PTZ CCTV Camera",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -18851,6 +19228,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "378",
 			"Item": "Paddle",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -18901,6 +19279,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "379",
 			"Item": "Paddling Pool",
 			"Category": "Fun",
 			"Scrap": null,
@@ -18951,6 +19330,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "380",
 			"Item": "Pan Flute",
 			"Category": "Fun",
 			"Scrap": null,
@@ -19001,6 +19381,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "381",
 			"Item": "Pants",
 			"Category": "Attire",
 			"Scrap": null,
@@ -19051,6 +19432,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "382",
 			"Item": "Paper",
 			"Category": "Resources",
 			"Scrap": null,
@@ -19101,6 +19483,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "383",
 			"Item": "Paper Map",
 			"Category": "Items",
 			"Scrap": null,
@@ -19151,6 +19534,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "384",
 			"Item": "Parachute",
 			"Category": "Attire",
 			"Scrap": null,
@@ -19201,6 +19585,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "385",
 			"Item": "Passenger Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -19251,6 +19636,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "386",
 			"Item": "Pattern Boomer",
 			"Category": "Fun",
 			"Scrap": null,
@@ -19301,6 +19687,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "387",
 			"Item": "Pickaxe",
 			"Category": "Tool",
 			"Scrap": null,
@@ -19351,6 +19738,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "388",
 			"Item": "Pinata",
 			"Category": "Fun",
 			"Scrap": null,
@@ -19401,6 +19789,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "389",
 			"Item": "Pipe Tool",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -19451,6 +19840,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "390",
 			"Item": "Pistol Bullet",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -19501,6 +19891,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "391",
 			"Item": "Pitchfork",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -19551,6 +19942,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "392",
 			"Item": "Plumber's Trumpet",
 			"Category": "Fun",
 			"Scrap": null,
@@ -19601,6 +19993,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "393",
 			"Item": "Portable Boom Box",
 			"Category": "Fun",
 			"Scrap": null,
@@ -19651,6 +20044,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "394",
 			"Item": "Portrait Photo Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -19701,6 +20095,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "395",
 			"Item": "Portrait Picture Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -19751,6 +20146,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "396",
 			"Item": "Powered Water Purifier",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -19801,6 +20197,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "397",
 			"Item": "Pressure Pad",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -19851,6 +20248,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "398",
 			"Item": "Prison Cell Gate",
 			"Category": "Construction",
 			"Scrap": null,
@@ -19901,6 +20299,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "399",
 			"Item": "Prison Cell Wall",
 			"Category": "Construction",
 			"Scrap": null,
@@ -19951,6 +20350,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "400",
 			"Item": "Prisoner Hood",
 			"Category": "Attire",
 			"Scrap": null,
@@ -20001,6 +20401,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "401",
 			"Item": "Prototype 17",
 			"Category": "Gun",
 			"Scrap": null,
@@ -20051,6 +20452,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "402",
 			"Item": "Pump Shotgun",
 			"Category": "Gun",
 			"Scrap": null,
@@ -20101,6 +20503,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "403",
 			"Item": "Pumpkin Basket",
 			"Category": "Misc",
 			"Scrap": 18.0,
@@ -20151,6 +20554,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "404",
 			"Item": "Purple Sunglasses",
 			"Category": "Attire",
 			"Scrap": null,
@@ -20201,6 +20605,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "405",
 			"Item": "Python Revolver",
 			"Category": "Gun",
 			"Scrap": null,
@@ -20251,6 +20656,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "406",
 			"Item": "RAND Switch",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -20301,6 +20707,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "407",
 			"Item": "RF Broadcaster",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -20351,6 +20758,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "408",
 			"Item": "RF Pager",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -20401,6 +20809,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "409",
 			"Item": "RF Receiver",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -20451,6 +20860,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "410",
 			"Item": "RF Transmitter",
 			"Category": "Tool",
 			"Scrap": null,
@@ -20501,6 +20911,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "411",
 			"Item": "Rabbit Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -20551,6 +20962,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "412",
 			"Item": "Rail Road Planter",
 			"Category": "Items",
 			"Scrap": null,
@@ -20601,6 +21013,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "413",
 			"Item": "Rat Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -20651,6 +21064,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "414",
 			"Item": "Reactive Target",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -20701,6 +21115,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "415",
 			"Item": "Rear Seats Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -20751,6 +21166,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "416",
 			"Item": "Red Boomer",
 			"Category": "Fun",
 			"Scrap": null,
@@ -20801,6 +21217,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "417",
 			"Item": "Red Industrial Wall Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -20851,6 +21268,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "418",
 			"Item": "Red Roman Candle",
 			"Category": "Fun",
 			"Scrap": null,
@@ -20901,6 +21319,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "419",
 			"Item": "Red Volcano Firework",
 			"Category": "Fun",
 			"Scrap": null,
@@ -20951,6 +21370,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "420",
 			"Item": "Reindeer Antlers",
 			"Category": "Attire",
 			"Scrap": null,
@@ -21001,6 +21421,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "421",
 			"Item": "Reinforced Glass Window",
 			"Category": "Construction",
 			"Scrap": null,
@@ -21051,6 +21472,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "422",
 			"Item": "Repair Bench",
 			"Category": "Items",
 			"Scrap": null,
@@ -21101,6 +21523,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "423",
 			"Item": "Research Table",
 			"Category": "Items",
 			"Scrap": null,
@@ -21151,6 +21574,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "424",
 			"Item": "Revolver",
 			"Category": "Gun",
 			"Scrap": null,
@@ -21201,6 +21625,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "425",
 			"Item": "Rifle Body",
 			"Category": "Component",
 			"Scrap": 30.0,
@@ -21251,6 +21676,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "426",
 			"Item": "Riot Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -21301,6 +21727,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "427",
 			"Item": "Road Sign Jacket",
 			"Category": "Attire",
 			"Scrap": null,
@@ -21351,6 +21778,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "428",
 			"Item": "Road Sign Kilt",
 			"Category": "Attire",
 			"Scrap": null,
@@ -21401,6 +21829,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "429",
 			"Item": "Road Signs",
 			"Category": "Component",
 			"Scrap": 6.0,
@@ -21451,6 +21880,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "430",
 			"Item": "Roadsign Gloves",
 			"Category": "Attire",
 			"Scrap": null,
@@ -21501,6 +21931,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "431",
 			"Item": "Roadsign Horse Armor",
 			"Category": "Attire",
 			"Scrap": null,
@@ -21551,6 +21982,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "432",
 			"Item": "Rock",
 			"Category": "Tool",
 			"Scrap": null,
@@ -21601,6 +22033,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "433",
 			"Item": "Rocket",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -21651,6 +22084,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "434",
 			"Item": "Rocket Launcher",
 			"Category": "Gun",
 			"Scrap": null,
@@ -21701,6 +22135,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "435",
 			"Item": "Rocking Chair",
 			"Category": "Items",
 			"Scrap": null,
@@ -21751,6 +22186,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "436",
 			"Item": "Root Combiner",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -21801,6 +22237,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "437",
 			"Item": "Rope",
 			"Category": "Component",
 			"Scrap": null,
@@ -21851,6 +22288,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "438",
 			"Item": "Rug",
 			"Category": "Items",
 			"Scrap": null,
@@ -21901,6 +22339,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "439",
 			"Item": "Rug Bear Skin",
 			"Category": "Items",
 			"Scrap": null,
@@ -21951,6 +22390,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "440",
 			"Item": "Rustig\u00e9 Egg - Blue",
 			"Category": "Misc",
 			"Scrap": null,
@@ -22001,6 +22441,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "441",
 			"Item": "Rustig\u00e9 Egg - Green",
 			"Category": "Misc",
 			"Scrap": null,
@@ -22051,6 +22492,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "442",
 			"Item": "Rustig\u00e9 Egg - Ivory",
 			"Category": "Misc",
 			"Scrap": null,
@@ -22101,6 +22543,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "443",
 			"Item": "Rustig\u00e9 Egg - Purple",
 			"Category": "Misc",
 			"Scrap": null,
@@ -22151,6 +22594,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "444",
 			"Item": "Rustig\u00e9 Egg - Red",
 			"Category": "Misc",
 			"Scrap": null,
@@ -22201,6 +22645,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "445",
 			"Item": "Rustig\u00e9 Egg - White",
 			"Category": "Misc",
 			"Scrap": null,
@@ -22251,6 +22696,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "446",
 			"Item": "SAM Ammo",
 			"Category": "Explosive",
 			"Scrap": null,
@@ -22301,6 +22747,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "447",
 			"Item": "SAM Site",
 			"Category": "Traps",
 			"Scrap": null,
@@ -22351,6 +22798,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "448",
 			"Item": "SKS",
 			"Category": "Gun",
 			"Scrap": null,
@@ -22401,6 +22849,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "449",
 			"Item": "SMG Body",
 			"Category": "Component",
 			"Scrap": 18.0,
@@ -22451,6 +22900,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "450",
 			"Item": "Saddle bag",
 			"Category": "Attire",
 			"Scrap": null,
@@ -22501,6 +22951,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "451",
 			"Item": "Salvaged Axe",
 			"Category": "Tool",
 			"Scrap": null,
@@ -22551,6 +23002,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "452",
 			"Item": "Salvaged Cleaver",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -22601,6 +23053,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "453",
 			"Item": "Salvaged Hammer",
 			"Category": "Tool",
 			"Scrap": null,
@@ -22651,6 +23104,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "454",
 			"Item": "Salvaged Icepick",
 			"Category": "Tool",
 			"Scrap": null,
@@ -22701,6 +23155,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "455",
 			"Item": "Salvaged Shelves",
 			"Category": "Items",
 			"Scrap": null,
@@ -22751,6 +23206,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "456",
 			"Item": "Salvaged Sword",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -22801,6 +23257,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "457",
 			"Item": "Sandbag Barricade",
 			"Category": "Construction",
 			"Scrap": null,
@@ -22851,6 +23308,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "458",
 			"Item": "Santa Beard",
 			"Category": "Attire",
 			"Scrap": null,
@@ -22901,6 +23359,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "459",
 			"Item": "Satchel Charge",
 			"Category": "Tool",
 			"Scrap": null,
@@ -22951,6 +23410,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "460",
 			"Item": "Scarecrow",
 			"Category": "Items",
 			"Scrap": null,
@@ -23001,6 +23461,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "461",
 			"Item": "Scarecrow Wrap",
 			"Category": "Attire",
 			"Scrap": null,
@@ -23051,6 +23512,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "462",
 			"Item": "Scientist Suit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -23101,6 +23563,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "463",
 			"Item": "Search Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -23151,6 +23614,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "464",
 			"Item": "Secretlab Chair",
 			"Category": "Items",
 			"Scrap": null,
@@ -23201,6 +23665,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "465",
 			"Item": "Seismic Sensor",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -23251,6 +23716,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "466",
 			"Item": "Semi Automatic Body",
 			"Category": "Component",
 			"Scrap": 18.0,
@@ -23301,6 +23767,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "467",
 			"Item": "Semi-Automatic Pistol",
 			"Category": "Gun",
 			"Scrap": null,
@@ -23351,6 +23818,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "468",
 			"Item": "Semi-Automatic Rifle",
 			"Category": "Gun",
 			"Scrap": null,
@@ -23401,6 +23869,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "469",
 			"Item": "Sewing Kit",
 			"Category": "Component",
 			"Scrap": null,
@@ -23451,6 +23920,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "470",
 			"Item": "Sheet Metal",
 			"Category": "Component",
 			"Scrap": 9.0,
@@ -23501,6 +23971,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "471",
 			"Item": "Sheet Metal Door",
 			"Category": "Construction",
 			"Scrap": null,
@@ -23551,6 +24022,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "472",
 			"Item": "Sheet Metal Double Door",
 			"Category": "Construction",
 			"Scrap": null,
@@ -23601,6 +24073,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "473",
 			"Item": "Shirt",
 			"Category": "Attire",
 			"Scrap": null,
@@ -23651,6 +24124,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "474",
 			"Item": "Shop Front",
 			"Category": "Construction",
 			"Scrap": null,
@@ -23701,6 +24175,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "475",
 			"Item": "Short Ice Wall",
 			"Category": "Construction",
 			"Scrap": null,
@@ -23751,6 +24226,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "476",
 			"Item": "Shorts",
 			"Category": "Attire",
 			"Scrap": null,
@@ -23801,6 +24277,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "477",
 			"Item": "Shotgun Trap",
 			"Category": "Traps",
 			"Scrap": null,
@@ -23851,6 +24328,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "478",
 			"Item": "Shovel",
 			"Category": "Tool",
 			"Scrap": null,
@@ -23901,6 +24379,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "479",
 			"Item": "Shovel Bass",
 			"Category": "Fun",
 			"Scrap": null,
@@ -23951,6 +24430,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "480",
 			"Item": "Sickle",
 			"Category": "Misc",
 			"Scrap": null,
@@ -24001,6 +24481,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "481",
 			"Item": "Silencer",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -24051,6 +24532,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "482",
 			"Item": "Simple Handmade Sight",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -24101,6 +24583,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "483",
 			"Item": "Simple Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -24151,6 +24634,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "484",
 			"Item": "Single Horse Saddle",
 			"Category": "Attire",
 			"Scrap": null,
@@ -24201,6 +24685,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "485",
 			"Item": "Single Sign Post",
 			"Category": "Items",
 			"Scrap": null,
@@ -24251,6 +24736,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "486",
 			"Item": "Siren Light",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -24301,6 +24787,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "487",
 			"Item": "Skinning Knife",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -24351,6 +24838,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "488",
 			"Item": "Skull Door Knocker",
 			"Category": "Items",
 			"Scrap": null,
@@ -24401,6 +24889,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "489",
 			"Item": "Skull Fire Pit",
 			"Category": "Items",
 			"Scrap": null,
@@ -24451,6 +24940,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "490",
 			"Item": "Skull Spikes",
 			"Category": "Fun",
 			"Scrap": null,
@@ -24501,6 +24991,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "491",
 			"Item": "Skull Trophy",
 			"Category": "Fun",
 			"Scrap": null,
@@ -24551,6 +25042,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "492",
 			"Item": "Sky Lantern",
 			"Category": "Fun",
 			"Scrap": null,
@@ -24601,6 +25093,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "493",
 			"Item": "Sled",
 			"Category": "Fun",
 			"Scrap": null,
@@ -24651,6 +25144,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "494",
 			"Item": "Sleeping Bag",
 			"Category": "Items",
 			"Scrap": null,
@@ -24701,6 +25195,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "495",
 			"Item": "Small Backpack",
 			"Category": "Attire",
 			"Scrap": null,
@@ -24751,6 +25246,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "496",
 			"Item": "Small Candle Set",
 			"Category": "Misc",
 			"Scrap": null,
@@ -24801,6 +25297,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "497",
 			"Item": "Small Generator",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -24851,6 +25348,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "498",
 			"Item": "Small Hunting Trophy",
 			"Category": "Items",
 			"Scrap": null,
@@ -24901,6 +25399,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "499",
 			"Item": "Small Neon Sign",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -24951,6 +25450,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "500",
 			"Item": "Small Oil Refinery",
 			"Category": "Items",
 			"Scrap": null,
@@ -25001,6 +25501,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "501",
 			"Item": "Small Planter Box",
 			"Category": "Items",
 			"Scrap": null,
@@ -25051,6 +25552,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "502",
 			"Item": "Small Rechargeable Battery",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -25101,6 +25603,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "503",
 			"Item": "Small Stash",
 			"Category": "Items",
 			"Scrap": null,
@@ -25151,6 +25654,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "504",
 			"Item": "Small Water Catcher",
 			"Category": "Construction",
 			"Scrap": null,
@@ -25201,6 +25705,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "505",
 			"Item": "Small Wooden Sign",
 			"Category": "Items",
 			"Scrap": null,
@@ -25251,6 +25756,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "506",
 			"Item": "Smart Alarm",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -25301,6 +25807,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "507",
 			"Item": "Smart Switch",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -25351,6 +25858,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "508",
 			"Item": "Smoke Grenade",
 			"Category": "Tool",
 			"Scrap": null,
@@ -25401,6 +25909,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "509",
 			"Item": "Smoke Rocket WIP!!!!",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -25451,6 +25960,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "510",
 			"Item": "Snap Trap",
 			"Category": "Traps",
 			"Scrap": null,
@@ -25501,6 +26011,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "511",
 			"Item": "Snow Jacket",
 			"Category": "Attire",
 			"Scrap": null,
@@ -25551,6 +26062,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "512",
 			"Item": "Snow Machine",
 			"Category": "Misc",
 			"Scrap": null,
@@ -25601,6 +26113,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "513",
 			"Item": "Snowball Gun",
 			"Category": "Gun",
 			"Scrap": null,
@@ -25651,6 +26164,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "514",
 			"Item": "Snowman",
 			"Category": "Items",
 			"Scrap": null,
@@ -25701,6 +26215,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "515",
 			"Item": "Snowman Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -25751,6 +26266,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "516",
 			"Item": "Sofa",
 			"Category": "Items",
 			"Scrap": null,
@@ -25801,6 +26317,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "517",
 			"Item": "Sofa - Pattern",
 			"Category": "Items",
 			"Scrap": null,
@@ -25851,6 +26368,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "518",
 			"Item": "Sound Light",
 			"Category": "Fun",
 			"Scrap": null,
@@ -25901,6 +26419,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "519",
 			"Item": "Sousaphone",
 			"Category": "Fun",
 			"Scrap": null,
@@ -25951,6 +26470,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "520",
 			"Item": "Spas-12 Shotgun",
 			"Category": "Gun",
 			"Scrap": null,
@@ -26001,6 +26521,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "521",
 			"Item": "Speargun",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -26051,6 +26572,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "522",
 			"Item": "Speargun Spear",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -26101,6 +26623,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "523",
 			"Item": "Spinning wheel",
 			"Category": "Items",
 			"Scrap": null,
@@ -26151,6 +26674,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "524",
 			"Item": "Splitter",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -26201,6 +26725,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "525",
 			"Item": "Spooky Speaker",
 			"Category": "Misc",
 			"Scrap": null,
@@ -26251,6 +26776,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "526",
 			"Item": "Spray Can",
 			"Category": "Tool",
 			"Scrap": null,
@@ -26301,6 +26827,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "527",
 			"Item": "Sprinkler",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -26351,6 +26878,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "528",
 			"Item": "Star Tree Topper",
 			"Category": "Misc",
 			"Scrap": 12.0,
@@ -26401,6 +26929,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "529",
 			"Item": "Sticks",
 			"Category": "Component",
 			"Scrap": null,
@@ -26451,6 +26980,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "530",
 			"Item": "Stone Barricade",
 			"Category": "Construction",
 			"Scrap": null,
@@ -26501,6 +27031,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "531",
 			"Item": "Stone Fireplace",
 			"Category": "Items",
 			"Scrap": null,
@@ -26551,6 +27082,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "532",
 			"Item": "Stone Hatchet",
 			"Category": "Tool",
 			"Scrap": null,
@@ -26601,6 +27133,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "533",
 			"Item": "Stone Pickaxe",
 			"Category": "Tool",
 			"Scrap": null,
@@ -26651,6 +27184,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "534",
 			"Item": "Stone Spear",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -26701,6 +27235,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "535",
 			"Item": "Storage Adaptor",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -26751,6 +27286,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "536",
 			"Item": "Storage Barrel Horizontal",
 			"Category": "Items",
 			"Scrap": null,
@@ -26801,6 +27337,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "537",
 			"Item": "Storage Barrel Vertical",
 			"Category": "Items",
 			"Scrap": null,
@@ -26851,6 +27388,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "538",
 			"Item": "Storage Monitor",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -26901,6 +27439,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "539",
 			"Item": "Storage Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -26951,6 +27490,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "540",
 			"Item": "Strengthened Glass Window",
 			"Category": "Construction",
 			"Scrap": null,
@@ -27001,6 +27541,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "541",
 			"Item": "Strobe Light",
 			"Category": "Misc",
 			"Scrap": null,
@@ -27051,6 +27592,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "542",
 			"Item": "Sunglasses",
 			"Category": "Attire",
 			"Scrap": null,
@@ -27101,6 +27643,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "543",
 			"Item": "Surgeon Scrubs",
 			"Category": "Attire",
 			"Scrap": null,
@@ -27151,6 +27694,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "544",
 			"Item": "Survey Charge",
 			"Category": "Tool",
 			"Scrap": null,
@@ -27201,6 +27745,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "545",
 			"Item": "Survival Fish Trap",
 			"Category": "Items",
 			"Scrap": null,
@@ -27251,6 +27796,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "546",
 			"Item": "Switch",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -27301,6 +27847,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "547",
 			"Item": "T-Shirt",
 			"Category": "Attire",
 			"Scrap": null,
@@ -27351,6 +27898,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "548",
 			"Item": "Table",
 			"Category": "Items",
 			"Scrap": null,
@@ -27401,6 +27949,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "549",
 			"Item": "Tactical Gloves",
 			"Category": "Attire",
 			"Scrap": null,
@@ -27451,6 +28000,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "550",
 			"Item": "Tall Picture Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -27501,6 +28051,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "551",
 			"Item": "Tall Weapon Rack",
 			"Category": "Items",
 			"Scrap": null,
@@ -27551,6 +28102,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "552",
 			"Item": "Tank Top",
 			"Category": "Attire",
 			"Scrap": null,
@@ -27601,6 +28153,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "553",
 			"Item": "Targeting Computer",
 			"Category": "Resources",
 			"Scrap": null,
@@ -27651,6 +28204,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "554",
 			"Item": "Tarp",
 			"Category": "Component",
 			"Scrap": null,
@@ -27701,6 +28255,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "555",
 			"Item": "Taxi Vehicle Module",
 			"Category": "Component",
 			"Scrap": null,
@@ -27751,6 +28306,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "556",
 			"Item": "Tech Trash",
 			"Category": "Component",
 			"Scrap": 24.0,
@@ -27801,6 +28357,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "557",
 			"Item": "Telephone",
 			"Category": "Fun",
 			"Scrap": null,
@@ -27851,6 +28408,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "558",
 			"Item": "Tesla Coil",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -27901,6 +28459,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "559",
 			"Item": "Test Generator",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -27951,6 +28510,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "560",
 			"Item": "Thompson",
 			"Category": "Gun",
 			"Scrap": null,
@@ -28001,6 +28561,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "561",
 			"Item": "Tiger Mask",
 			"Category": "Attire",
 			"Scrap": null,
@@ -28051,6 +28612,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "562",
 			"Item": "Timed Explosive Charge",
 			"Category": "Tool",
 			"Scrap": null,
@@ -28101,6 +28663,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "563",
 			"Item": "Timer",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -28151,6 +28714,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "564",
 			"Item": "Tin Can Alarm",
 			"Category": "Traps",
 			"Scrap": null,
@@ -28201,6 +28765,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "565",
 			"Item": "Tool Cupboard",
 			"Category": "Construction",
 			"Scrap": null,
@@ -28251,6 +28816,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "566",
 			"Item": "Torch",
 			"Category": "Tool",
 			"Scrap": null,
@@ -28301,6 +28867,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "567",
 			"Item": "Torch Holder",
 			"Category": "Items",
 			"Scrap": null,
@@ -28351,6 +28918,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "568",
 			"Item": "Torpedo",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -28401,6 +28969,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "569",
 			"Item": "Tree Lights",
 			"Category": "Misc",
 			"Scrap": 30.0,
@@ -28451,6 +29020,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "570",
 			"Item": "Triangle Ladder Hatch",
 			"Category": "Construction",
 			"Scrap": null,
@@ -28501,6 +29071,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "571",
 			"Item": "Tuna Can Lamp",
 			"Category": "Items",
 			"Scrap": null,
@@ -28551,6 +29122,7 @@
 			"Empty Tuna Can": 0.6
 		},
 		{
+			"id": "572",
 			"Item": "Twitch Rivals Trophy",
 			"Category": "Items",
 			"Scrap": null,
@@ -28601,6 +29173,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "573",
 			"Item": "Twitch Rivals Trophy 2023",
 			"Category": "Items",
 			"Scrap": null,
@@ -28651,6 +29224,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "574",
 			"Item": "Two Sided Hanging Sign",
 			"Category": "Items",
 			"Scrap": null,
@@ -28701,6 +29275,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "575",
 			"Item": "Two Sided Ornate Hanging Sign",
 			"Category": "Items",
 			"Scrap": null,
@@ -28751,6 +29326,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "576",
 			"Item": "Two Sided Town Sign Post",
 			"Category": "Items",
 			"Scrap": null,
@@ -28801,6 +29377,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "577",
 			"Item": "Vampire Stake",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -28851,6 +29428,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "578",
 			"Item": "Variable Zoom Scope",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -28901,6 +29479,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "579",
 			"Item": "Vending Machine",
 			"Category": "Items",
 			"Scrap": null,
@@ -28951,6 +29530,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "580",
 			"Item": "Violet Boomer",
 			"Category": "Fun",
 			"Scrap": null,
@@ -29001,6 +29581,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "581",
 			"Item": "Violet Roman Candle",
 			"Category": "Fun",
 			"Scrap": null,
@@ -29051,6 +29632,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "582",
 			"Item": "Violet Volcano Firework",
 			"Category": "Fun",
 			"Scrap": null,
@@ -29101,6 +29683,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "583",
 			"Item": "Wallpaper",
 			"Category": "Items",
 			"Scrap": null,
@@ -29151,6 +29734,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "584",
 			"Item": "Wanted Poster",
 			"Category": "Items",
 			"Scrap": null,
@@ -29201,6 +29785,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "585",
 			"Item": "Watch Tower",
 			"Category": "Construction",
 			"Scrap": null,
@@ -29251,6 +29836,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "586",
 			"Item": "Water Barrel",
 			"Category": "Items",
 			"Scrap": null,
@@ -29301,6 +29887,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "587",
 			"Item": "Water Bucket",
 			"Category": "Tool",
 			"Scrap": null,
@@ -29351,6 +29938,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "588",
 			"Item": "Water Gun",
 			"Category": "Fun",
 			"Scrap": null,
@@ -29401,6 +29989,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "589",
 			"Item": "Water Jug",
 			"Category": "Food",
 			"Scrap": null,
@@ -29451,6 +30040,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "590",
 			"Item": "Water Pistol",
 			"Category": "Fun",
 			"Scrap": null,
@@ -29501,6 +30091,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "591",
 			"Item": "Water Pump",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -29551,6 +30142,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "592",
 			"Item": "Water Purifier",
 			"Category": "Items",
 			"Scrap": null,
@@ -29601,6 +30193,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "593",
 			"Item": "Waterpipe Shotgun",
 			"Category": "Gun",
 			"Scrap": null,
@@ -29651,6 +30244,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "594",
 			"Item": "Waterwell NPC Jumpsuit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -29701,6 +30295,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "595",
 			"Item": "Weapon Lasersight",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -29751,6 +30346,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "596",
 			"Item": "Weapon Rack Stand",
 			"Category": "Items",
 			"Scrap": null,
@@ -29801,6 +30397,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "597",
 			"Item": "Weapon flashlight",
 			"Category": "Attachment",
 			"Scrap": null,
@@ -29851,6 +30448,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "598",
 			"Item": "Wetsuit",
 			"Category": "Attire",
 			"Scrap": null,
@@ -29901,6 +30499,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "599",
 			"Item": "Wheelbarrow Piano",
 			"Category": "Fun",
 			"Scrap": null,
@@ -29951,6 +30550,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "600",
 			"Item": "White Volcano Firework",
 			"Category": "Fun",
 			"Scrap": null,
@@ -30001,6 +30601,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "601",
 			"Item": "Wide Weapon Rack",
 			"Category": "Items",
 			"Scrap": null,
@@ -30051,6 +30652,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "602",
 			"Item": "Wind Turbine",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -30101,6 +30703,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "603",
 			"Item": "Wire Tool",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -30151,6 +30754,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "604",
 			"Item": "Wolf Headdress",
 			"Category": "Attire",
 			"Scrap": null,
@@ -30201,6 +30805,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "605",
 			"Item": "Wood Armor Helmet",
 			"Category": "Attire",
 			"Scrap": null,
@@ -30251,6 +30856,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "606",
 			"Item": "Wood Armor Pants",
 			"Category": "Attire",
 			"Scrap": null,
@@ -30301,6 +30907,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "607",
 			"Item": "Wood Chestplate",
 			"Category": "Attire",
 			"Scrap": null,
@@ -30351,6 +30958,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "608",
 			"Item": "Wood Double Door",
 			"Category": "Construction",
 			"Scrap": null,
@@ -30401,6 +31009,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "609",
 			"Item": "Wood Shutters",
 			"Category": "Construction",
 			"Scrap": null,
@@ -30451,6 +31060,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "610",
 			"Item": "Wood Storage Box",
 			"Category": "Items",
 			"Scrap": null,
@@ -30501,6 +31111,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "611",
 			"Item": "Wooden Arrow",
 			"Category": "Ammunition",
 			"Scrap": null,
@@ -30551,6 +31162,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "612",
 			"Item": "Wooden Barricade",
 			"Category": "Construction",
 			"Scrap": null,
@@ -30601,6 +31213,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "613",
 			"Item": "Wooden Barricade Cover",
 			"Category": "Construction",
 			"Scrap": null,
@@ -30651,6 +31264,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "614",
 			"Item": "Wooden Cross",
 			"Category": "Misc",
 			"Scrap": null,
@@ -30701,6 +31315,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "615",
 			"Item": "Wooden Door",
 			"Category": "Construction",
 			"Scrap": null,
@@ -30751,6 +31366,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "616",
 			"Item": "Wooden Floor Spikes",
 			"Category": "Traps",
 			"Scrap": null,
@@ -30801,6 +31417,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "617",
 			"Item": "Wooden Frontier Bar Doors",
 			"Category": "Construction",
 			"Scrap": null,
@@ -30851,6 +31468,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "618",
 			"Item": "Wooden Horse Armor",
 			"Category": "Attire",
 			"Scrap": null,
@@ -30901,6 +31519,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "619",
 			"Item": "Wooden Ladder",
 			"Category": "Construction",
 			"Scrap": null,
@@ -30951,6 +31570,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "620",
 			"Item": "Wooden Spear",
 			"Category": "Weapon",
 			"Scrap": null,
@@ -31001,6 +31621,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "621",
 			"Item": "Wooden Window Bars",
 			"Category": "Construction",
 			"Scrap": null,
@@ -31051,6 +31672,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "622",
 			"Item": "Workbench Level 1",
 			"Category": "Items",
 			"Scrap": null,
@@ -31101,6 +31723,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "623",
 			"Item": "Workbench Level 2",
 			"Category": "Items",
 			"Scrap": null,
@@ -31151,6 +31774,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "624",
 			"Item": "Workbench Level 3",
 			"Category": "Items",
 			"Scrap": null,
@@ -31201,6 +31825,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "625",
 			"Item": "XL Picture Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -31251,6 +31876,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "626",
 			"Item": "XOR Switch",
 			"Category": "Electrical",
 			"Scrap": null,
@@ -31301,6 +31927,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "627",
 			"Item": "XXL Picture Frame",
 			"Category": "Items",
 			"Scrap": null,
@@ -31351,6 +31978,7 @@
 			"Empty Tuna Can": null
 		},
 		{
+			"id": "628",
 			"Item": "Xylobone",
 			"Category": "Fun",
 			"Scrap": null,
