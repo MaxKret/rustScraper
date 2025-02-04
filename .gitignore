@@ -1,0 +1,10 @@
+/.venv
+/.vscode
+/allrequirements.txt
+/bad_x.txt
+/item_resources.json
+/main.py
+/new_categories.json
+/Recycler_Rust Wiki.html
+/requirements.txt
+/__pycache__
