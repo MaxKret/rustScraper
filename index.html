@@ -29,7 +29,7 @@
 
 		$.ajax({
 			type: "GET",
-			url: "/item_table.csv",
+			url: "https://maxkret.github.io/rustScraper/item_table.csv",
 			success: function (data) {
 				$('body').append(arrayToTable(Papa.parse(data).data));
 			}
