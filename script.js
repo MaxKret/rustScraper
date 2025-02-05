@@ -2,6 +2,10 @@ addEventListener('DOMContentLoaded', () => {
 	let table = new DataTable('#myTable', {
 		ajax: 'https://maxkret.github.io/rustScraper/item_table.json',
 		columns: [
+			{
+				data: null,
+				render: DataTable.render.select()
+			},
 			{ data: 'Item' },
 			{ data: 'Category' },
 			{ data: 'Scrap' },
@@ -51,15 +55,17 @@ addEventListener('DOMContentLoaded', () => {
 			{ data: 'Electric Fuse' },
 			{ data: 'Empty Tuna Can' }
 		],
-		paging: false
-		// select: true
-		// layout: {
-		// 	topStart: {
-		// 		buttons: [
-		// 			'selected',
-		// 			'selectNone',
-		// 		]
-		// 	}
-		// },
+		paging: false,
+		select: {
+			style: 'multi'
+		},
+		layout: {
+			topStart: {
+				buttons: [
+					'selected',
+					'selectNone',
+				]
+			}
+		},
 	});
 });
