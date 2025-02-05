@@ -52,5 +52,14 @@ addEventListener('DOMContentLoaded', () => {
 			{ data: 'Empty Tuna Can' }
 		],
 		paging: false
+		// select: true
+		// layout: {
+		// 	topStart: {
+		// 		buttons: [
+		// 			'selected',
+		// 			'selectNone',
+		// 		]
+		// 	}
+		// },
 	});
 });
